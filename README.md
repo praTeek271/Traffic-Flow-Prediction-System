@@ -1,5 +1,5 @@
 # Traffic Flow Prediction
-https://youtu.be/FDYNU3bReCY Traffic Flow Prediction with Neural Networks(SAEs, LSTM, GRU, RNN and Absolute Time Model (average)).
+Traffic Flow Prediction with Neural Networks(SAEs, LSTM, GRU, RNN and Absolute Time Model (average)).
 
 ## Dependencies
 1. folium==0.12.1.post1
